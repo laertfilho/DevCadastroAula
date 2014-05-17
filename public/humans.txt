@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Thiago F. -- slacktracer@gmail.com
+
+# THANKS
+
+    Zana Ribeiro
+
+# TECHNOLOGY COLOPHON
+
+    HTML, CSS, JS
+    jQuery, AngularJS, Bootstrap

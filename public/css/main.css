@@ -1,0 +1,54 @@
+body {
+    padding-bottom: 40px;
+    padding-top: 60px;
+}
+
+#main h1,
+#main h2,
+#main legend {
+    color: #666666;
+    text-shadow: 2px 2px 3px #dddddd;
+}
+
+#main fieldset {
+    margin-top: 20px;
+}
+
+#main fieldset legend {
+    font-size: 1.8em;
+}
+
+#main fieldset fieldset legend {
+    font-size: 1.6em;
+}
+
+#main dl dt {
+    margin-top: 10px;
+}
+
+#main .ubuntu-condensed {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+#home h1 {
+    color: #777777;
+    font-size: 112px;
+    font-weight: 700;
+    line-height: 1.22;
+    text-shadow: 4px 4px 6px #dddddd;
+}
+
+#home .lead {
+    color: #999999;
+    font-size: 32px;
+}
+
+#home .btn-lg {
+    font-size: 28px;
+    line-height: 1.66;
+    margin: 10px 0px;
+}
+
+#home .roboto-condensed {
+    font-family: 'Roboto Condensed', sans-serif;
+}

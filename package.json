@@ -1,0 +1,17 @@
+{
+    "author": "Laert Cavalcante <laertcavalcante@gmail.com>",
+    "dependencies": {
+        "log": "git+https://github.com/slacktracer/log.js.git",
+        "lokapala": "git+https://github.com/slacktracer/lokapala.git",
+        "moment": "~2.6.0",
+        "mysql": "~2.1.1",
+        "q": "~1.0.1",
+        "underscore": "~1.6.0"
+    },
+    "description": "Cadastro de clientes",
+    "engines": {
+        "node": "0.10.x"
+    },
+    "name": "DevCadastro",
+    "version": "0.0.1"
+}

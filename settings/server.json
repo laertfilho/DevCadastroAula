@@ -1,0 +1,6 @@
+{
+    "cookies": false,
+    "favicon": "./public/images/gear_blue.png",
+    "folder": "./public",
+    "port": 8007
+}
